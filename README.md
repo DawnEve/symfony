@@ -2,18 +2,18 @@ Joyful Development with Symfony 《symfony快乐开发》
 ===============================
 
 Well hi there! This repository holds the code and script
-for the Symfony course on KnpUniversity.
+for the Symfony course on KnpUniversity.  
 大家好！这个库包含KnpUniversity上Symfony课程的代码和脚本。
 
 And as always, thanks so much for your support and letting us do what
-we love!
+we love!  
 像往常一样，感谢大家的给力支持，让我们一直做我们喜爱的事情！
 
 If you have suggestions or questions, please feel free to
-open an issue or message us.
+open an issue or message us.  
 如果你有任何建议或问题，请直接发一个issue或者给我们发消息。
 
-<3 Your friends at KnpUniversity
+<3 Your friends at KnpUniversity  
 <3 你KnpUniversity上的朋友
 
 
